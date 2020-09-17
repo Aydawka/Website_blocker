@@ -1,6 +1,5 @@
 
-#Here is website blocker via Python
-
+# Here is website blocker via Python
 
 
 ![sc](https://user-images.githubusercontent.com/62059163/93467594-eeccc400-f8fe-11ea-9246-35050e428cff.png)
@@ -12,10 +11,11 @@
 
 
 # Surely its possible to unblock them,just delete the below urls
-
-
-[sc1](https://user-images.githubusercontent.com/62059163/93468833-a4e4dd80-f900-11ea-9dc1-d1e01d40ef6d.png)
 # and last step is
 ![sc](https://user-images.githubusercontent.com/62059163/93468814-a0b8c000-f900-11ea-9f64-93fcb0baf0f5.png)
 
-and here it is now all sites working))
+
+![sc1](https://user-images.githubusercontent.com/62059163/93469213-3eac8a80-f901-11ea-9fbb-00da565259f3.png)
+
+
+# and here it is now all sites working))
